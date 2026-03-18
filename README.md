@@ -1,0 +1,2 @@
+# I NOTEBOOK
+iNotebook is a full-stack web application inspired by the popular note-taking concept, built using the MERN stack. It allows users to securely create, edit, and delete personal notes with authentication. The project focuses on RESTful APIs, user authentication, and a responsive frontend for a smooth user experience.
